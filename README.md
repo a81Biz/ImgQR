@@ -1,2 +1,2 @@
 # ImgQR
-Imagen QA para conectar con WiFi
+Imagen QR para conectar con WiFi
